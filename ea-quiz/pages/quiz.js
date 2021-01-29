@@ -25,10 +25,10 @@ export default function Quiz({ data }) {
       </div>
 
       <div id="answers">
-        <input type="radio" value="" name="answer" /> { data.correctAns }
         <input type="radio" value="" name="answer" /> { data.ans1 }
         <input type="radio" value="" name="answer" /> { data.ans2 }
         <input type="radio" value="" name="answer" /> { data.ans3 }
+        <input type="radio" value="" name="answer" /> { data.ans4 }
       </div>
 
       <div id="submit-answer">
