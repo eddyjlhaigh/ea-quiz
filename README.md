@@ -1,1 +1,1 @@
-# ea-quiz
+# Effective Altruism Quiz
